@@ -38,13 +38,6 @@ My Gallery Challenge from DevChallenge
 
 ![screenshot](destop.png)
 
-### Table View
-
-![screenshot](modern-device.png)
-
-### Mobile View
-
-![screenshot](mobile-view.png)
 
 - Where can I see your demo?
   You see my demo at -[My Gallery](https://feelgallery.netlify.app/)
